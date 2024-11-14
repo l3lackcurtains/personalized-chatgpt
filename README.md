@@ -65,7 +65,7 @@ Example request body:
 ```json
 {
   "message": "When did hari john do Master of Science in Software Engineering?",
-  "file_path": "path/to/context/file.txt" // Optional
+  "file_path": "path/to/context/file.txt"
 }
 ```
 
