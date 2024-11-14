@@ -87,7 +87,7 @@ Here is an example of how to use the endpoint with `curl`:
 
 ```bash
 curl -X POST localhost:5000/chat -H "Content-Type: application/json" -d '{
-  "message": "When did he do Master of Science in Software Engineering?",
+  "message": "When did hari john do Master of Science in Software Engineering?",
   "file_path": "path/to/context/file.txt"
 }'
 ```
