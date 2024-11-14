@@ -1,0 +1,48 @@
+Hari Dhakal
+Backend Developer
+City, Country  •  (123) 456-789  •  yourname@resumeworded.com  •  linkedin.com/in/your-profile
+EXPERIENCE
+Resume Worded
+January 2022 - Present
+Backend Developer
+Optimized database queries, reducing server response time by 40%, which improved user experience and decreased page load times by 2 seconds on average
+Led a team of 5 developers to implement a new microservices architecture, resulting in a 35% increase in system scalability and a 25% reduction in server costs
+Developed a comprehensive API documentation, enhancing cross-team collaboration and reducing integration errors by 20%
+Automated deployment processes using Jenkins, decreasing deployment time by 30% and reducing human error in the release pipeline
+Integrated a Redis caching system, which resulted in a 60% decrease in data retrieval times and significantly improved application performance
+Google
+August 2019 - December 2021
+Backend Developer
+Implemented load balancing techniques, which led to a 50% improvement in server uptime during peak traffic hours
+Reduced server downtimes by 75% through proactive monitoring and automated alerts using Prometheus and Grafana
+Refactored existing codebase to improve readability and maintainability, leading to a 20% increase in development speed for new features
+Amazon
+May 2017 - July 2019
+Junior Backend Developer
+Developed RESTful APIs, enabling seamless integration between frontend and backend systems and reducing bug occurrences by 15%
+Migrated legacy systems to a modern microservices architecture, resulting in a 30% increase in system reliability and performance
+Coached.com
+June 2016 - April 2017
+Software Engineer Intern
+Assisted in the design and implementation of backend systems using Node.js, contributing to a 20% improvement in application efficiency and load times
+Collaborated with senior developers to debug and optimize SQL queries, reducing data retrieval times by 25%
+EDUCATION
+Resume Worded Academic Center
+May 2017
+Master of Science in Software Engineering
+Focus on Distributed Systems and Machine Learning Applications
+Resume Worded University
+May 2015
+Bachelor of Science in Computer Science
+Graduated Summa Cum Laude
+Relevant Coursework: Advanced Data Structures, Database Management Systems
+SKILLS
+Databases: MySQL (Advanced), PostgreSQL (Advanced), MongoDB (Expert), Redis (Expert), Cassandra (Intermediate)
+Programming Languages: Java (Expert), Python (Expert), Ruby (Intermediate), Scala (Intermediate), PHP (Intermediate), C# (Basic)
+Frameworks & Libraries: Node.js, Express.js, Django, Flask, .NET Framework, Ruby on Rails
+Development Tools & Practices: Docker (Proficient), Kubernetes (Proficient), AWS (Proficient), Git (Advanced), CI/CD (Advanced), Agile/Scrum (Advanced)
+OTHER
+Certifications: Oracle Certified Professional, Java SE 8 Programmer; AWS Certified Developer – Associate (2020)
+Conferences & Workshops: Speaker at API World 2021, Attended Full Stack Tech Conference 2019
+Professional Development: Completed 'Microservices Architecture' training series with LinkedIn Learning (2022)
+Coding Competitions: Finalist in Resume Worded Global Hackathon 2018, Participated in Google Code Jam 2016
